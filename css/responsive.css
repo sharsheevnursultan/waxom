@@ -1,0 +1,245 @@
+@media (min-width: 1281px) and (max-width: 2040px){
+    .main-owl{
+        padding: 100px 0 100px 0;
+    }
+
+    /*
+      ##Device = Laptops, Desktops
+      ##Screen = B/w 1025px to 1280px
+    */
+}
+
+@media (min-width: 1100px) and (max-width: 1280px){
+    .main-owl{
+        padding: 100px 0 100px 0;
+    }
+    .owl-item-unique {
+        font-size: 30px;
+        margin-bottom: 12px;
+    }
+
+    .owl-item-portfolio {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+
+
+
+    /*
+      ##Device = Tablets, Ipads (portrait)
+      ##Screen = B/w 768px to 1024px
+    */
+}
+@media (min-width: 992px) and (max-width: 1100px){
+    .main-owl{
+        padding: 100px 0 100px 0;
+    }
+
+    .owl-item-unique {
+        font-size: 30px;
+        margin-bottom: 12px;
+    }
+
+    .owl-item-portfolio {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .main-owl{
+        padding: 100px 0 100px 0;
+    }
+    .offset-4{
+        margin-left: 0;
+    }
+    .header-ul{
+        display: none;
+    }
+    .widget{
+        display: none;
+    }
+    .owl-theme .owl-nav{
+        display: none;
+    }
+    .owl-item-nam{
+        margin: 0 55px 55px 55px;
+    }
+    .owl-item-unique {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .owl-item-portfolio {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+    /*
+      ##Device = Tablets, Ipads (landscape)
+      ##Screen = B/w 768px to 1024px
+    */
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .offset-4{
+        margin: 0;
+    }
+    .header-ul{
+        display: none;
+    }
+    .widget{
+        display: none;
+    }
+    .owl-theme .owl-nav{
+        display: none;
+    }
+    .owl-item-nam{
+        margin: 0 55px 55px 55px;
+    }
+
+
+
+    /*
+      ##Device = Most of the Smartphones Mobiles (Portrait)
+      ##Screen = B/w 320px to 479px
+    */
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .main-owl{
+        padding: 20% 0 20% 0;
+    }
+    .offset-4{
+        margin: 0;
+    }
+    .header-ul{
+        display: none;
+    }
+    .widget{
+        display: none;
+    }
+    .myheader{
+        height: auto;
+    }
+    .owl-theme .owl-nav{
+        display: none;
+    }
+    .owl-item-unique{
+        font-size: 14px;
+    }
+    .owl-item-portfolio{
+        font-size: 20px;
+    }
+    .owl-item-nam{
+        margin: 0 55px 55px 55px;
+        font-size: 12px;
+    }
+    .my-owl-button{
+        padding: 12px 28px 12px 28px;
+    }
+    .mylogo{
+        padding-top: 8px;
+    }
+    .mylogo img{
+        width: 45px;
+    }
+    .mylogowaxom{
+        padding-top: 18px;
+    }
+    .mylogowaxom img{
+        width: 60px;
+    }
+
+    .titles:before {
+        top: 180px;
+    }
+    .ideas-title {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .services {
+        padding-bottom: 0;
+    }
+    .multipurpose-title {
+        padding-top: 24px;
+        font-size: 14px;
+    }
+    .multipurpose-title2 {
+        font-size: 10px;
+        padding-bottom: 24px;
+    }
+    .multipurpose-button {
+        padding: 6px 20px;
+        font-size: 10px;
+    }
+    .multipurpose {
+        margin-bottom: 40px;
+    }
+    .videoblock {
+        padding: 100px 0;
+    }
+    .videoblock-title {
+        font-size: 24px;
+    }
+    .videoblock-title2 {
+        font-size: 10px;
+    }
+    .iphone-text {
+        padding-top: 30px;
+    }
+    .iphone-text h3 {
+        font-size: 24px;
+    }
+    .iphone-text h5 {
+        padding-top: 14px;
+        font-size: 14px;
+    }
+    .iphone-list {
+        margin-bottom: 20px;
+        margin-left: 25px;
+        padding-top: 20px;
+    }
+    .counter-titles {
+        padding-bottom: 45px;
+    }
+    .counter-titles:before {
+        bottom: 21px;
+    }
+    .counter {
+        height: max-content;
+    }
+    .recent-posts {
+        margin-top: 40px;
+    }
+    .waxomis-title {
+        font-size: 11px;
+    }
+    .recent-project h4 {
+        font-size: 16px;
+    }
+    .recent-project h6 {
+        font-size: 12px;
+    }
+    .bg-partners {
+        padding: 40px 25px;
+    }
+    .partners img {
+        width: 100%;
+        padding-bottom: 50px;
+    }
+    .title-footer {
+        padding-top: 20px;
+    }
+    .footer {
+        padding: 50px 0;
+    }
+    .copyright {
+        display: inline-table;
+        text-align: center;
+        padding: 20px 0;
+    }
+}
+
+
