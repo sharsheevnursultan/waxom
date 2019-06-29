@@ -258,7 +258,7 @@ button:focus {
 .multipurpose {
     margin-bottom: 80px;
     position: relative;
-    background: url("../image/background.png");
+    background: linear-gradient(90deg, rgba(33,27,25,1) 0%, rgba(56,40,32,1) 49%, rgba(78,52,39,1) 100%);
     width: 100%;
 }
 
@@ -593,7 +593,7 @@ label:hover {
     display: flex;
     flex-wrap: wrap;
     height: 300px;
-    background: url("../image/background.png");
+    background: linear-gradient(90deg, rgba(33,27,25,1) 0%, rgba(56,40,32,1) 49%, rgba(78,52,39,1) 100%);
 }
 
 .counter-title {
