@@ -241,7 +241,7 @@
         padding: 20px 0;
     }
     #recent-posts .owl-theme .owl-nav .owl-prev{
-        top: 94%;
+        top: 95%;
         background: url("../image/partners-left.png");
         left: 40%;
 
@@ -251,7 +251,7 @@
 
     }
     #recent-posts .owl-theme .owl-nav .owl-next{
-        top: 94%;
+        top: 95%;
         background: url("../image/partners-right.png");
         right: 40%;
 
